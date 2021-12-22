@@ -12,4 +12,6 @@ This is a basic HTML starter project to explain how to connect to your CDP insta
 
 ← `products/product-a.html ,products/product-b.html, products/product-c.html`: These are product files which are linked from index file in order to show various products and behaviours.
 
+← `style.css`: Styling and themings are set up here.
+
 Open each file and check out the comments (in gray) for more info.
