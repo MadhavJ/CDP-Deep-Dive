@@ -1,9 +1,9 @@
 /*************CDP JS ******************/
 // Define the Boxever queue
 var _boxeverq = _boxeverq || [];
-var clientKey = "pqsrxehja3f17kpxeuvoare26qfmbcu0"; //partner sandbox :psfu6uh05hsr9c34rptlr06dn864cqrx ; alphagaming: pqsrxehja3f17kpxeuvoare26qfmbcu0
-var apiTargetEndpoint = "https://api.boxever.com/v1.2";
-var cookieDomain = "reliable-fifth-temper.glitch.me";
+var clientKey = '{{clientKey}}'; // Replace with your client key
+var apiTargetEndpoint = "https://api.boxever.com/v1.2";// Replace with your API target endpoint specific to your data center region
+var cookieDomain = "reliable-fifth-temper.glitch.me";// Replace with the top level cookie domain of the website that is being integrated e.g ".example.com" and not "www.example.com"
 var clientVersion = "1.4.8";
 var productItemId = "";
 var referenceId = "";
