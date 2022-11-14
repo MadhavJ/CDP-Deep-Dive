@@ -4,7 +4,7 @@ Contains APP and CDP folders which provides snippets to complete various tasks o
 # Prerequisites
 ←`Hosted Website` : You can have your own website or copy contents of `APP` folder which is example project created from https://glitch.com/ 
 
-←`Sitecore CDP instance` : More about getting access to CDP instance can be found in https://connectmadhavjoshi.wordpress.com/2022/01/03/how-to-login-into-cdp-instance/ 
+←`Sitecore CDP instance` : More about getting access to CDP instance can be found in https://sitecore.madhav.blog/how-to-login-into-cdp-instance/
 
 ←`Choice of IDE` : For this implementation Visual Studio Code is used.
 
